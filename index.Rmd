@@ -1,6 +1,6 @@
 ---
 title: "Web page trial"
-author: "Nichoas J. Gotelli"
+author: "Nicholas J. Gotelli"
 date: '2023-01-19'
 output: html_document
 ---
